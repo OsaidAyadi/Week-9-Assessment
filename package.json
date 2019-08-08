@@ -1,0 +1,29 @@
+{
+  "name": "week-9-assessment",
+  "version": "1.0.0",
+  "description": "* 1.Instructions:   - Assessment time only one hour and a half.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "mon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsaidAyadi/Week-9-Assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsaidAyadi/Week-9-Assessment/issues"
+  },
+  "homepage": "https://github.com/OsaidAyadi/Week-9-Assessment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.8.0",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
